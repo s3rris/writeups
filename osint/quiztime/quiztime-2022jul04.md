@@ -34,6 +34,7 @@ With parking ticket or Resident parking permit for zone 29 Mon-Sat 5-24 pm Sun 9
 So we now know that this relates to Zone 29 for parking within Berlin. There are numerous websites that give us details on parking permit zones for Berlin that were useful in my research. I quickly found out that this was referring to the Mitte part of Berlin and so I focused my searches there. I will name a few sites here that provided help with maps for the parking zone:
 
 * https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244758.php
+* https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/ordnungsamt/parkraumbewirtschaftung/220316_gesamtplan_parkraumbewirtschaftung.pdf
 * https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/ordnungsamt/parkraumbewirtschaftung/ >> Within this site I was able to download PDF maps of the parking zones
 * https://www.google.com/maps/d/viewer?mid=1v1FrOhbc4cXrtsVLkFY-jQSi5sc&ll=52.52705919186779%2C13.39742748925675&z=17 >> In the end this proved to be the most useful
 
