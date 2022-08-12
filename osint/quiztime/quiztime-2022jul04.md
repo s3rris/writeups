@@ -38,6 +38,8 @@ So we now know that this relates to Zone 29 for parking within Berlin. There are
 * https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/ordnungsamt/parkraumbewirtschaftung/ >> Within this site I was able to download PDF maps of the parking zones
 * https://www.google.com/maps/d/viewer?mid=1v1FrOhbc4cXrtsVLkFY-jQSi5sc&ll=52.52705919186779%2C13.39742748925675&z=17 >> In the end this proved to be the most useful
 
+<img width="1370" alt="Berlin_Paid_Parking_-_Google_My_Maps" src="https://user-images.githubusercontent.com/111104710/184287312-a7ae5c25-bf1f-4e0b-8838-288f7f6e4f26.png">
+
 My main tactic was to try different streets to see if they appear familiar and if I can get the right angle and view of the tower via Google Street View. 
 
 Eventually navigating through the streets, I located **Rosenthaler Str., Berlin, Germany** which seemed to be matching a number of characteristics. I note that I haven't seen recent Google Maps Street View updates for Berlin, the images were from July 2008 but there were several characteristics that stood out.
