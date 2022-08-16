@@ -11,14 +11,14 @@ Checking @bayer_julia's Twitter profile, we are lead to https://about.me/juliaba
 
 <img width="1368" alt="duckduckgo_tower_search" src="https://user-images.githubusercontent.com/111104710/184283195-468298a6-8b8a-4f27-89aa-6269ddeb7a3e.png">
 
-Based on this we can tell that the tower in question is [Fernsehturm Berlin|https://en.wikipedia.org/wiki/Fernsehturm_Berlin].
+Based on this we can tell that the tower in question is [Fernsehturm Berlin](https://en.wikipedia.org/wiki/Fernsehturm_Berlin).
 
 ### Location
 I initially searched around with Google Earth to see if I could find the side and angle of where the picture was taken and see if I could track down the location that way. While I got close, this definitely was a longer process. I switched to analzying the road signs that can be seen in the picture. There is a particular one that seems to indicate some parking zone information:
 
 <img width="353" alt="road_signs" src="https://user-images.githubusercontent.com/111104710/184283588-fe76529c-0e17-4968-9325-4fb84a200044.png">
 
-Using a [text extractor tool|https://brandfolder.com/workbench/extract-text-from-image], I was able to obtain the text from the sign:
+Using a [text extractor tool](https://brandfolder.com/workbench/extract-text-from-image), I was able to obtain the text from the sign:
 
 ```
 Mit Parkschein oder
@@ -48,6 +48,7 @@ My main tactic was to try different streets to see if they appear familiar and i
 Eventually navigating through the streets, I located **Rosenthaler Str., Berlin, Germany** which seemed to be matching a number of characteristics. I note that I haven't seen recent Google Maps Street View updates for Berlin, the images were from July 2008 but there were several characteristics that stood out.
 
 <img width="1378" alt="19_Rosenthaler_Strasse_-_Google_Maps" src="https://user-images.githubusercontent.com/111104710/184285273-c1c84651-b685-42a4-b27f-e0db516f772f.png">
+
 
 ### Solution
 While the image is slightly older and the sign as well as some of the sites look to have changed, I believe the location has been found for where this image has been taken:
