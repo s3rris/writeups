@@ -1,7 +1,10 @@
 # @quiztime challenge
+
 Date: Jul 4th 2022
+
 Link: https://twitter.com/bayer_julia/status/1544078366990602245
-![](<img width="589" alt="quiztime_2022jul04" src="https://user-images.githubusercontent.com/111104710/184282660-d791fc73-5f65-415c-99d4-91ba1fd78461.png">
+
+(<img width="589" alt="quiztime_2022jul04" src="https://user-images.githubusercontent.com/111104710/184282660-d791fc73-5f65-415c-99d4-91ba1fd78461.png">
 
 ### The tower
 Checking @bayer_julia's Twitter profile, we are lead to https://about.me/juliabayer, where we find that they are a journalist from Berlin, Germany. This is a good indiacation that the image was taken in Berlin. Searching for *tall towers berlin* via Duck Duck Go images, I found a number of matches to the quiztime image:
